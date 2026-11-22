@@ -1,0 +1,19 @@
+{
+  "name": "@htdc/kit",
+  "version": "0.0.1",
+  "description": "The workflow for document creation with HTDC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow",
+    "framework",
+    "document",
+    "markup",
+    "htdc"
+  ],
+  "homepage": "https://htdc.sadgabi20.dev/",
+  "author": "sadgabi20",
+  "license": "MIT"
+}
